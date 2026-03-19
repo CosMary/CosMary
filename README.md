@@ -1,39 +1,43 @@
-#  Olá, eu sou a Mariana!
+ 👋 Olá, eu sou a Mariana!
 
- Estudante de Ciência da Computação  
- Focada em Desenvolvimento Web  
- Designer Gráfica com experiência em projetos digitais  
-
----
-
-##  Tecnologias e Ferramentas
-
--  HTML, CSS, JavaScript  
--  Python (básico)  
--  Java (básico)  
--  Photoshop, Illustrator, After Effects  
--  Blender, Maya, ZBrush, Unity  
+🎓 Estudante de Ciência da Computação  
+💻 Focada em Desenvolvimento Web  
+🎨 Designer Gráfica apaixonada por criar soluções digitais  
 
 ---
 
-##  Projetos em destaque
+🚀 Tecnologias e Ferramentas
 
-###  Sistema de Cafeteria
-Sistema de gerenciamento de pedidos desenvolvido com Java e Python.
-
-###  Site Pet Shop
-Website responsivo desenvolvido com HTML, CSS e JavaScript.
-
----
-
-##  Portfólio
- https://www.behance.net/deusdolitro  
+- 🌐 HTML, CSS, JavaScript  
+- 🐍 Python (básico)  
+- ☕ Java (básico)  
+- 🎨 Photoshop, Illustrator, After Effects  
+- 🧱 Blender, Maya, ZBrush, Unity  
 
 ---
 
-##  Contato
+ 📂 Projetos em destaque
 
- Email: Mariaalvrj@gmail.com  
- LinkedIn: https://www.linkedin.com/in/mariana-oliveira-alves-045808272/
+🐶 Site Pet Shop
+Website responsivo desenvolvido com HTML, CSS e JavaScript  
+👉 [Ver projeto](https://github.com/CosMary/site-petshop)
 
- Aberta a oportunidades de estágio em TI
+---
+
+ 🎯 Objetivo
+
+Busco uma oportunidade de estágio na área de TI para desenvolver minhas habilidades em programação e design, contribuindo com soluções criativas e eficientes.
+
+---
+
+ 🎨 Portfólio
+🔗 https://www.behance.net/deusdolitro  
+
+---
+
+ 📫 Contato
+
+📧 Email: Mariaalvrj@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/mariana-oliveira-alves-045808272/
+
+💡 Aberta a oportunidades de estágio em TI
