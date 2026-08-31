@@ -8,11 +8,11 @@
 
 🚀 Tecnologias e Ferramentas
 
-- 🌐 HTML, CSS, JavaScript  
+- 🌐 HTML, CSS, JavaScript (básico) 
 - 🐍 Python (básico)  
-- ☕ Java (básico)  
-- 🎨 Photoshop, Illustrator, After Effects  
-- 🧱 Blender, Maya, ZBrush, Unity  
+- Pacote Office (intermediário)
+- 🎨 Photoshop, Illustrator, After Effects (intermediário)
+- 🧱 Blender, Maya, ZBrush, Unity (intermediário)
 
 ---
 
